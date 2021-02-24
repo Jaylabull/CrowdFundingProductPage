@@ -1,0 +1,26 @@
+body
+{
+    margin: auto;
+    font-family:'Commissioner', sans-serif; 
+    width: 1440px;
+}
+
+button
+{
+color: white;
+background-color: hsl(176, 50%, 47%);
+border-radius: 20%;
+border-color: inherit;
+box-shadow: none;
+margin: 4px 2px;
+padding: 12px;
+font-size: 12px;
+}
+
+div.verticle-line
+{
+    width: 1px;
+    background-color: lightslategrey;
+    height: 100%;
+    float: right;
+}
